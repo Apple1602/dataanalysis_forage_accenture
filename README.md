@@ -10,6 +10,10 @@ Importantly, not everyone will have a strong understanding of data. Your job is 
 The Data refers to the relevant data sources that you will clean, process, and use to generate interesting insights for the business.
 
 Learnings:-
-1) Data Modelling
+1)Cleaning Data 
+Going through the data and the question statement, I found out that the User ID is not useful as they want to map only the reactions and the content type.
+So deleting the User ID column.
+
+2) Data Modelling
 Finding the top 5 categories. 
 To complete data modelling.
